@@ -1,0 +1,22 @@
+{
+  "name": "chatconnode",
+  "version": "1.0.0",
+  "description": "es un pequeño chat con node js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "start chat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuberolopez96/chatconnode.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Juan Antonio cubero Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuberolopez96/chatconnode/issues"
+  },
+  "homepage": "https://github.com/cuberolopez96/chatconnode#readme"
+}
